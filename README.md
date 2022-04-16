@@ -1,5 +1,5 @@
 # Tutorial Game Of Life Rust WASM
-
+- https://rustwasm.github.io/docs/book/introduction.html
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
